@@ -39,7 +39,7 @@ main(int argc, const char* argv[])
 {
     if (argc != 3)
     {
-        std::cerr << "usage: unlock <host> <port>" << std::endl;
+        std::cerr << "usage: holder <host> <port>" << std::endl;
         return EXIT_FAILURE;
     }
 
